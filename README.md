@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me: good question
 - 😄 Pronouns: first time here
-- ⚡ Fun fact: Erdnuss
+- ⚡ Fun fact: nuts
 
 <!---
 NH980/NH980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
